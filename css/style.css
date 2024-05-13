@@ -1069,14 +1069,6 @@ img {
   padding-top: 7px;
 }
 
-.new {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  padding-left: 10px;
-}
-
 .product__text {
   max-width: 40%;
 }
@@ -1597,3 +1589,4 @@ img {
   text-align: center;
   color: var(--color-text-gray);
 }
+
